@@ -1,7 +1,7 @@
 # Anupkumar Mishra - Developer Portfolio
 
 <p align="center">
-  <img src="./public/preview.png" alt="Portfolio Preview" width="100%" />
+  <img src="./public/Preview.png" alt="Portfolio Preview" width="100%" />
 </p>
 
 <p align="center">
