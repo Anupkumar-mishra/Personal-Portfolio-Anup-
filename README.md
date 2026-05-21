@@ -145,7 +145,7 @@ Responsive wallpaper platform with optimized performance and scalable backend de
 
 ## Desktop View
 
-![Portfolio Preview](./assets/preview.png)
+![Portfolio Preview](./public/Preview.png)
 
 ---
 
