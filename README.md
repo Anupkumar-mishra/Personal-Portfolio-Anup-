@@ -1,49 +1,79 @@
 # Anupkumar Mishra - Developer Portfolio
 
-Modern full-stack developer portfolio built using Next.js, TypeScript, Tailwind CSS, and Framer Motion.
+<p align="center">
+  <img src="./assets/preview.png" alt="Portfolio Preview" width="100%" />
+</p>
 
-Designed to showcase projects, technical skills, experience, and AI-powered development work with a modern responsive UI and smooth user experience.
+<p align="center">
+  Modern Full Stack Developer Portfolio built with Next.js, TypeScript, Tailwind CSS and Framer Motion.
+</p>
+
+<p align="center">
+  <a href="https://your-vercel-link.vercel.app">
+    <img src="https://img.shields.io/badge/Live-Demo-14b8a6?style=for-the-badge" />
+  </a>
+
+  <a href="https://github.com/Anupkumar-mishra">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge" />
+  </a>
+
+  <a href="https://linkedin.com/in/anupkumar-mishra">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
-## 🚀 Live Demo
+# 🚀 About The Project
 
-https://your-vercel-link.vercel.app
+This is my personal developer portfolio designed and developed to showcase my projects, technical skills, experience, and AI-powered development work.
+
+The portfolio focuses on:
+- Modern UI/UX
+- Smooth animations
+- Responsive layouts
+- Scalable architecture
+- Performance optimization
+- Professional developer branding
+
+Built using the latest frontend technologies and deployed for production-grade performance.
 
 ---
 
-## 📌 Features
+# ✨ Features
 
-- Modern UI/UX Design
-- Fully Responsive Layout
-- Smooth Animations
-- Project Showcase Section
+- Responsive Modern Design
+- Smooth Framer Motion Animations
+- Full Dark Theme UI
+- Hero Section with Personal Branding
+- Skills Showcase
 - Experience Timeline
-- Skills & Tech Stack
+- Project Showcase
 - Contact Section
 - Optimized Performance
-- Dark Modern Theme
-- Clean Component Architecture
+- Mobile Friendly Layout
+- Modern Component Architecture
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Frontend
+## Frontend
 - Next.js
 - React.js
 - TypeScript
 - Tailwind CSS
 - Framer Motion
 
-### Backend & Tools
+## Backend & Tools
 - Node.js
 - Git & GitHub
-- Vercel Deployment
+- Vercel
+- VS Code
 
 ---
 
-## 📂 Project Structure
+# 📂 Folder Structure
 
 ```bash
 src/
@@ -52,51 +82,108 @@ src/
  ┣ sections/
  ┣ data/
  ┣ styles/
+ ┗ utils/
+
 public/
+assets/
 ```
 
 ---
 
-## 💻 Projects Included
+# 💻 Featured Projects
 
-### Indian Manifesto Tracker
-AI-powered civic intelligence platform using RAG architecture and automated data pipelines.
+## 🧠 Indian Manifesto Tracker
+AI-powered civic intelligence platform using:
+- React.js
+- Node.js
+- Python
+- PostgreSQL
+- RAG Architecture
+- Claude API
 
-### Security Management System
-Full-stack role-based security management platform with dashboards and REST APIs.
-
-### Wallpaper Website
-Responsive wallpaper platform with optimized search and scalable backend architecture.
+### Features
+- Tracks 400+ political promises
+- Automated data pipelines
+- NLP-powered chatbot
+- Analytics dashboards
+- Real-time updates
 
 ---
 
-## ⚡ Installation & Setup
+## 🛡️ Security Management System
 
-Clone the repository:
+Full-stack role-based security management platform.
+
+### Features
+- RBAC Authentication
+- REST APIs
+- Dashboard Analytics
+- Client & Guard Management
+- Scalable Backend Architecture
+
+### Tech Used
+- Node.js
+- Express.js
+- MongoDB
+- JavaScript
+
+---
+
+## 🖼️ Wallpaper Website
+
+Responsive wallpaper platform with optimized performance and scalable backend design.
+
+### Features
+- Fast Image Loading
+- Optimized Search
+- Responsive Design
+- Backend Query Optimization
+
+---
+
+# 📸 Preview
+
+## Desktop View
+
+![Portfolio Preview](./assets/preview.png)
+
+---
+
+# ⚡ Installation & Setup
+
+## Clone Repository
 
 ```bash
 git clone https://github.com/Anupkumar-mishra/Personal-Portfolio-Anup-.git
 ```
 
-Move into project folder:
+---
+
+## Move Into Project Folder
 
 ```bash
 cd Personal-Portfolio-Anup-
 ```
 
-Install dependencies:
+---
+
+## Install Dependencies
 
 ```bash
 npm install
 ```
 
-Run development server:
+---
+
+## Start Development Server
 
 ```bash
 npm run dev
 ```
 
-Open browser:
+---
+
+## Open Browser
 
 ```bash
 http://localhost:3000
@@ -104,35 +191,20 @@ http://localhost:3000
 
 ---
 
-## 🌐 Deployment
+# 🌐 Deployment
 
-This portfolio is deployed using Vercel.
+This project is deployed using Vercel.
 
-### Deploy Your Own
+## Deploy Your Own
 
-1. Fork this repository
-2. Connect repository to Vercel
-3. Deploy with one click
-
----
-
-## 📸 Preview
-
-Add your portfolio screenshot inside:
-
-```bash
-public/preview.png
-```
-
-Then uncomment below:
-
-```md
-![Portfolio Preview](./public/preview.png)
-```
+1. Fork the repository
+2. Connect GitHub with Vercel
+3. Import repository
+4. Deploy instantly
 
 ---
 
-## 🧠 About Me
+# 🧠 About Me
 
 I am a Full Stack & AI Developer passionate about building scalable web applications and AI-powered systems.
 
@@ -142,28 +214,71 @@ Currently focused on:
 - AI Integrations
 - System Design
 - Performance Optimization
+- AI-powered Products
 
 ---
 
-## 📫 Contact
+# 📊 Skills
 
-### Email
+## Languages
+- Java
+- C++
+- Python
+- JavaScript
+- SQL
+
+## Frontend
+- React.js
+- Next.js
+- Tailwind CSS
+- HTML
+- CSS
+
+## Backend
+- Node.js
+- Express.js
+- REST APIs
+
+## Databases
+- MongoDB
+- PostgreSQL
+- MySQL
+
+## AI & Tools
+- RAG Architecture
+- Claude AI
+- Git & GitHub
+- Docker
+- AWS Basics
+
+---
+
+# 📫 Contact
+
+## Email
 anupmishra0033@gmail.com
 
-### LinkedIn
+## LinkedIn
 https://linkedin.com/in/anupkumar-mishra
 
-### GitHub
+## GitHub
 https://github.com/Anupkumar-mishra
 
 ---
 
-## ⭐ Support
+# ⭐ Support
 
 If you like this project, consider giving it a star on GitHub.
 
 ---
 
-## 📄 License
+# 📄 License
 
-This project is open source and available under the MIT License.
+This project is licensed under the MIT License.
+
+---
+
+# 🙌 Thank You
+
+Thank you for visiting my portfolio repository.
+Feel free to connect with me and explore my work.
